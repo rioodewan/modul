@@ -1,0 +1,10 @@
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\klinik\klinik\bin\Debug\klinik.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\klinik\klinik\bin\Debug\klinik.exe
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\klinik\klinik\bin\Debug\klinik.pdb
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\klinik\klinik\bin\Debug\klinik.xml
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\klinik\klinik\obj\Debug\klinik.Form1.resources
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\klinik\klinik\obj\Debug\klinik.Resources.resources
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\klinik\klinik\obj\Debug\klinik.vbproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\klinik\klinik\obj\Debug\klinik.exe
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\klinik\klinik\obj\Debug\klinik.xml
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\klinik\klinik\obj\Debug\klinik.pdb
