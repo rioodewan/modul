@@ -1,0 +1,61 @@
+E:\Visual Basic\Modul 3\Modul 3\bin\Debug\Modul 3.exe.config
+E:\Visual Basic\Modul 3\Modul 3\bin\Debug\Modul 3.exe
+E:\Visual Basic\Modul 3\Modul 3\bin\Debug\Modul 3.pdb
+E:\Visual Basic\Modul 3\Modul 3\bin\Debug\Modul 3.xml
+E:\Visual Basic\Modul 3\Modul 3\obj\Debug\Modul 3.vbprojAssemblyReference.cache
+E:\Visual Basic\Modul 3\Modul 3\obj\Debug\Modul_3.Form1.resources
+E:\Visual Basic\Modul 3\Modul 3\obj\Debug\Modul_3.Form2.resources
+E:\Visual Basic\Modul 3\Modul 3\obj\Debug\Modul_3.Form3.resources
+E:\Visual Basic\Modul 3\Modul 3\obj\Debug\Modul_3.Form4.resources
+E:\Visual Basic\Modul 3\Modul 3\obj\Debug\Modul_3.Form5.resources
+E:\Visual Basic\Modul 3\Modul 3\obj\Debug\Modul_3.Form6.resources
+E:\Visual Basic\Modul 3\Modul 3\obj\Debug\Modul_3.Form7.resources
+E:\Visual Basic\Modul 3\Modul 3\obj\Debug\Modul_3.Form8.resources
+E:\Visual Basic\Modul 3\Modul 3\obj\Debug\Modul_3.Form9.resources
+E:\Visual Basic\Modul 3\Modul 3\obj\Debug\Modul_3.Resources.resources
+E:\Visual Basic\Modul 3\Modul 3\obj\Debug\Modul 3.vbproj.GenerateResource.cache
+E:\Visual Basic\Modul 3\Modul 3\obj\Debug\Modul 3.exe
+E:\Visual Basic\Modul 3\Modul 3\obj\Debug\Modul 3.xml
+E:\Visual Basic\Modul 3\Modul 3\obj\Debug\Modul 3.pdb
+E:\Visual Basic\Modul 3\Modul 3\obj\Debug\Modul_3.Form10.resources
+E:\Visual Basic\Modul 3\Modul 3\obj\Debug\Modul_3.Form11.resources
+C:\Users\ASUS\Documents\Visual Basic\Modul 3\bin\Debug\Modul 3.exe.config
+C:\Users\ASUS\Documents\Visual Basic\Modul 3\obj\Debug\Modul 3.exe
+C:\Users\ASUS\Documents\Visual Basic\Modul 3\obj\Debug\Modul 3.xml
+C:\Users\ASUS\Documents\Visual Basic\Modul 3\obj\Debug\Modul 3.pdb
+C:\Users\ASUS\Documents\Visual Basic\Modul 3\bin\Debug\Modul 3.exe
+C:\Users\ASUS\Documents\Visual Basic\Modul 3\bin\Debug\Modul 3.pdb
+C:\Users\ASUS\Documents\Visual Basic\Modul 3\bin\Debug\Modul 3.xml
+C:\Users\ASUS\Documents\Visual Basic\Modul 3\obj\Debug\Modul_3.Form1.resources
+C:\Users\ASUS\Documents\Visual Basic\Modul 3\obj\Debug\Modul_3.Form10.resources
+C:\Users\ASUS\Documents\Visual Basic\Modul 3\obj\Debug\Modul_3.Form11.resources
+C:\Users\ASUS\Documents\Visual Basic\Modul 3\obj\Debug\Modul_3.Form2.resources
+C:\Users\ASUS\Documents\Visual Basic\Modul 3\obj\Debug\Modul_3.Form3.resources
+C:\Users\ASUS\Documents\Visual Basic\Modul 3\obj\Debug\Modul_3.Form4.resources
+C:\Users\ASUS\Documents\Visual Basic\Modul 3\obj\Debug\Modul_3.Form5.resources
+C:\Users\ASUS\Documents\Visual Basic\Modul 3\obj\Debug\Modul_3.Form6.resources
+C:\Users\ASUS\Documents\Visual Basic\Modul 3\obj\Debug\Modul_3.Form7.resources
+C:\Users\ASUS\Documents\Visual Basic\Modul 3\obj\Debug\Modul_3.Form8.resources
+C:\Users\ASUS\Documents\Visual Basic\Modul 3\obj\Debug\Modul_3.Form9.resources
+C:\Users\ASUS\Documents\Visual Basic\Modul 3\obj\Debug\Modul_3.Resources.resources
+C:\Users\ASUS\Documents\Visual Basic\Modul 3\obj\Debug\Modul 3.vbproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\Visual Basic\Modul 3 Rio\bin\Debug\Modul 3.exe.config
+C:\Users\ASUS\Documents\Visual Basic\Modul 3 Rio\obj\Debug\Modul 3.exe
+C:\Users\ASUS\Documents\Visual Basic\Modul 3 Rio\obj\Debug\Modul 3.xml
+C:\Users\ASUS\Documents\Visual Basic\Modul 3 Rio\obj\Debug\Modul 3.pdb
+C:\Users\ASUS\Documents\Visual Basic\Modul 3 Rio\bin\Debug\Modul 3.exe
+C:\Users\ASUS\Documents\Visual Basic\Modul 3 Rio\bin\Debug\Modul 3.pdb
+C:\Users\ASUS\Documents\Visual Basic\Modul 3 Rio\bin\Debug\Modul 3.xml
+C:\Users\ASUS\Documents\Visual Basic\Modul 3 Rio\obj\Debug\Modul_3.Form1.resources
+C:\Users\ASUS\Documents\Visual Basic\Modul 3 Rio\obj\Debug\Modul_3.Form10.resources
+C:\Users\ASUS\Documents\Visual Basic\Modul 3 Rio\obj\Debug\Modul_3.Form11.resources
+C:\Users\ASUS\Documents\Visual Basic\Modul 3 Rio\obj\Debug\Modul_3.Form2.resources
+C:\Users\ASUS\Documents\Visual Basic\Modul 3 Rio\obj\Debug\Modul_3.Form3.resources
+C:\Users\ASUS\Documents\Visual Basic\Modul 3 Rio\obj\Debug\Modul_3.Form4.resources
+C:\Users\ASUS\Documents\Visual Basic\Modul 3 Rio\obj\Debug\Modul_3.Form5.resources
+C:\Users\ASUS\Documents\Visual Basic\Modul 3 Rio\obj\Debug\Modul_3.Form6.resources
+C:\Users\ASUS\Documents\Visual Basic\Modul 3 Rio\obj\Debug\Modul_3.Form7.resources
+C:\Users\ASUS\Documents\Visual Basic\Modul 3 Rio\obj\Debug\Modul_3.Form8.resources
+C:\Users\ASUS\Documents\Visual Basic\Modul 3 Rio\obj\Debug\Modul_3.Form9.resources
+C:\Users\ASUS\Documents\Visual Basic\Modul 3 Rio\obj\Debug\Modul_3.Resources.resources
+C:\Users\ASUS\Documents\Visual Basic\Modul 3 Rio\obj\Debug\Modul 3.vbproj.GenerateResource.Cache
